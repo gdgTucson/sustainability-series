@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    height: 20vh;
+}
+
+img {
+    height: 25vh;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 5px 0px;
+}
+
+#implementation-targets ol {
+    list-style-type: lower-alpha;
+}
+
+#global-infographic {
+    height: 95vh;
+}
+
+#global-sdg-progress-chart-header {
+    height: 10vh;
+    width: 95vw;
+}
+
+#global-sdg-12-progress-chart {
+    height: 25vh;
+    width: 95vw;
+}
+
+#oecd-sdg-dashboard {
+    height: 95vh;
+}
+
+footer img {
+    height: 8vh;
+}
