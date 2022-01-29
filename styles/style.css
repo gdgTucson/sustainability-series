@@ -18,6 +18,16 @@ li {
     padding: 5px 0px;
 }
 
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+td, th {
+    border: 1px solid darkgrey;
+    padding: 10px 20px;
+}
+
 #implementation-targets ol {
     list-style-type: lower-alpha;
 }
